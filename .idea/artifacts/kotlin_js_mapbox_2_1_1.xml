@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="kotlin-js-mapbox-2.1.1">
+    <output-path>D:\Projects\kotlin-js-mapbox\build\libs</output-path>
+    <root id="archive" name="kotlin-js-mapbox-2.1.1.jar">
+      <element id="module-output" name="kotlin-js-mapbox.main" />
+    </root>
+  </artifact>
+</component>
