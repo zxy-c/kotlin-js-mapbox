@@ -12,6 +12,11 @@ external class Map(
 }
 
 external interface MapOptions {
-    var container: String
+    /**
+     * HtmlElement or string
+     */
+    var container: dynamic
     var style: String
+    var center: Array<Double>
+    var zoom:Int
 }
