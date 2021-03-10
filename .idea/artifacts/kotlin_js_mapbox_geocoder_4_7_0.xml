@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="kotlin-js-mapbox-geocoder-4.7.0">
+    <output-path>D:\Projects\kotlin-js-mapbox\geocoder\build\libs</output-path>
+    <root id="archive" name="kotlin-js-mapbox-geocoder-4.7.0.jar">
+      <element id="module-output" name="kotlin-js-mapbox.kotlin-js-mapbox-geocoder.main" />
+    </root>
+  </artifact>
+</component>
